@@ -11,6 +11,9 @@ vendor/
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
 
 *.iml
+composer.lock
+phpunit.xml.dist
+symfony
 
 ## Directory-based project format:
 .idea/
